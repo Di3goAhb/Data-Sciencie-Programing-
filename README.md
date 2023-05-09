@@ -1,2 +1,2 @@
-# Data-Sciencie-Programing
-All my codes, notes and projects about my curse of data science programing in third semester.
+# Data-Science-Programming
+All my codes, notes, and projects about my curse in data science programming in the third semester.
