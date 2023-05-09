@@ -1,2 +1,2 @@
-In this project i compare quicksot algorithm, merchsort algorithm and numpysort algorithm to evalute 10, 100, 1000, 10000, 100000, 10000000, 10000000 and 1000000000 
-data and evalute the efficiency of each one in time, resources and memory. 
+In this project, I compare the quicksort algorithm, mergesort algorithm, and numpysort algorithm to evaluate 10, 100, 1000, 10000, 100000, 10000000, 10000000 and 1000000000 
+data and evaluate the efficiency of each one in time, resources, and memory. 
