@@ -1,0 +1,3 @@
+In this project, I´ll realize an EDA (Exploratory Data Analysis) 
+to determine results about a database of }football soccer. I determine equipment characteristics, 
+for example, ball possession, victories, etc.
