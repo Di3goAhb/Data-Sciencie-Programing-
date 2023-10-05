@@ -1,0 +1,109 @@
+﻿POSICION,EQUIPO,PJUGADOS,PGANADOS,PEMPATADOS,PPERDIDOS,GOLESFAVOR,GOLESCONTRA,DIFGOLES,PUNTOS,LIGUILLA,FINAL
+1,Monterrey6,17,13,1,3,38,14,24,40,semifinal,9
+2,America6,17,9,7,1,42,27,15,34,semifinal,9
+3,Guadalajara6,17,10,4,3,34,23,11,34,final,12
+4,Toluca6,17,9,5,3,38,24,14,32,cuartos,6
+5,Pachuca6,17,10,1,6,36,28,8,31,liguilla,3
+6,Leon6,17,8,6,3,24,16,8,30,liguilla,3
+7,Tigres6,17,7,4,6,31,24,7,25,ganador,15
+8,Cruz Azul6,17,7,3,7,21,23,-2,24,liguilla,3
+9,Atlas6,17,4,9,4,29,23,6,21,cuartos,6
+10,Puebla6,17,4,8,5,26,22,4,20,liguilla,3
+11,Atletico de San Luis6,17,5,4,8,15,26,-11,19,cuartos,6
+12,Santos6,17,5,4,8,27,43,-16,19,cuartos,6
+13,Pumas6,17,5,3,9,24,32,-12,18,eliminado,1
+14,Tijuana6,17,3,7,7,19,19,0,16,eliminado,1
+15,Juarez6,17,3,6,8,17,25,-8,15,eliminado,1
+16,Necaxa6,17,3,5,9,16,24,-8,14,eliminado,1
+17,Mazatlan6,17,2,1,14,19,41,-22,7,eliminado,1
+18,Queretaro6,17,6,2,9,26,31,-5,20,eliminado,1
+1,Leon1,17,12,4,1,27,14,13,40,ganador,15
+2,Pumas1,17,8,8,1,29,17,12,32,final,12
+3,America1,17,9,5,3,31,22,9,32,cuartos,6
+4,Cruz Azul1,17,9,2,6,23,16,7,29,semifinal,9
+5,Monterrey1,17,8,5,4,26,21,5,29,liguilla,3
+6,Tigres1,17,7,7,3,27,16,11,28,cuartos,6
+7,Guadalajara1,17,7,5,5,20,17,3,26,semifinal,9
+8,Santos1,17,7,4,6,24,20,4,25,liguilla,3
+9,Pachuca1,17,6,7,4,18,14,4,25,cuartos,6
+10,Necaxa1,17,7,3,7,16,20,-4,24,liguilla,3
+11,Toluca1,17,6,3,8,23,28,-5,21,liguilla,3
+12,Puebla1,17,6,2,9,22,25,-3,20,cuartos,6
+13,Juarez1,17,4,7,6,16,19,-3,19,eliminado,1
+14,Mazatlan1,17,4,4,9,24,31,-7,16,eliminado,1
+15,Tijuana1,17,4,3,10,12,27,-15,15,eliminado,1
+16,Atlas1,17,3,5,9,13,20,-7,14,eliminado,1
+17,Queretaro1,17,3,4,10,23,28,-5,13,eliminado,1
+18,Atletico de San Luis1,17,3,2,12,16,35,-19,11,eliminado,1
+1,Cruz Azul2,17,13,2,2,26,11,15,41,ganador,15
+2,America2,17,12,2,3,26,14,12,38,cuartos,6
+3,Puebla2,17,7,7,3,25,14,11,28,semifinal,9
+4,Monterrey2,17,8,4,5,22,13,9,28,cuartos,6
+5,Santos2,17,7,5,5,18,13,5,26,final,12
+6,Leon2,17,8,2,7,25,23,2,26,liguilla,3
+7,Atlas2,17,7,4,6,20,15,5,25,cuartos,6
+8,Pachuca2,17,6,5,6,20,19,1,23,semifinal,9
+9,Guadalajara2,17,5,8,4,21,21,0,23,liguilla,3
+10,Tigres2,17,6,5,6,19,20,-1,23,liguilla,3
+11,Toluca2,17,6,4,7,26,24,2,22,cuartos,6
+12,Queretaro2,17,6,3,8,19,25,-6,21,liguilla,3
+13,Mazatlan2,17,6,3,8,19,26,-7,21,eliminado,1
+14,Tijuana2,17,5,5,7,19,21,-2,20,eliminado,1
+15,Pumas2,17,4,6,7,10,12,-2,18,eliminado,1
+16,Juarez2,17,4,3,10,13,29,-16,15,eliminado,1
+17,Atletico de San Luis2,17,3,3,11,20,33,-13,12,eliminado,1
+18,Necaxa2,17,2,5,10,14,29,-15,11,eliminado,1
+1,America3,17,10,5,2,21,10,11,35,cuartos,6
+2,Atlas3,17,8,5,4,21,10,11,29,ganador,15
+3,Leon3,17,8,5,4,20,14,6,29,final,12
+4,Tigres3,17,7,7,3,26,14,12,28,semifinal,9
+5,Santos3,17,5,9,3,23,16,7,24,cuartos,6
+6,Toluca3,17,6,6,5,22,22,0,24,liguilla,3
+7,Puebla3,17,6,6,5,16,16,0,24,cuartos,6
+8,Cruz Azul3,17,5,8,4,21,17,4,23,liguilla,3
+9,Monterrey3,17,5,7,5,19,16,3,22,cuartos,6
+10,Guadalajara3,17,5,7,5,13,13,0,22,liguilla,3
+11,Pumas3,17,5,6,6,17,23,-6,21,semifinal,9
+12,Atletico de San Luis3,17,4,8,5,19,23,-4,20,liguilla,3
+13,Mazatlan3,17,5,5,7,18,24,-6,20,eliminado,1
+14,Necaxa3,17,6,2,9,16,22,-6,20,eliminado,1
+15,Pachuca3,17,4,6,7,19,21,-2,18,eliminado,1
+16,Juarez3,17,4,4,9,14,25,-11,16,eliminado,1
+17,Queretaro3,17,3,6,8,11,19,-8,15,eliminado,1
+18,Tijuana3,17,3,6,8,16,27,-11,15,eliminado,1
+1,Pachuca4,17,12,2,3,30,14,16,38,final,12
+2,Tigres4,17,10,3,4,30,20,10,33,semifinal,9
+3,Atlas4,17,7,6,4,21,15,6,27,ganador,15
+4,America4,17,7,5,5,24,17,7,26,semifinal,9
+5,Puebla4,17,7,5,5,25,19,6,26,cuartos,6
+6,Guadalajara4,17,7,5,5,25,21,4,26,cuartos,6
+7,Monterrey4,17,7,5,5,21,17,4,26,liguilla,3
+8,Cruz Azul4,17,7,4,6,20,17,3,25,cuartos,6
+9,Necaxa4,17,7,2,8,21,21,0,23,liguilla,3
+10,Atletico de San Luis4,17,7,2,8,21,22,-1,23,cuartos,6
+11,Pumas4,17,6,4,7,23,21,2,22,liguilla,3
+12,Mazatlan4,17,6,3,8,20,24,-4,21,liguilla,3
+13,Leon4,17,5,6,6,17,22,-5,21,eliminado,1
+14,Santos4,17,5,5,7,25,25,0,20,eliminado,1
+15,Toluca4,17,5,4,8,21,36,-15,19,eliminado,1
+16,Queretaro4,17,3,8,6,18,21,-3,17,eliminado,1
+17,Tijuana4,17,4,5,8,14,26,-12,17,eliminado,1
+18,Juarez4,17,3,2,12,10,28,-18,11,eliminado,1
+1,America5,17,12,2,3,38,17,21,38,semifinal,9
+2,Monterrey5,17,10,5,2,29,13,16,35,semifinal,9
+3,Santos5,17,10,3,4,38,21,17,33,cuartos,6
+4,Pachuca5,17,9,5,3,28,15,13,32,ganador,15
+5,Tigres5,17,9,3,5,24,13,11,30,cuartos,6
+6,Toluca5,17,7,6,4,27,23,4,27,final,12
+7,Cruz Azul5,17,7,3,7,26,33,-7,24,cuartos,6
+8,Puebla5,17,4,10,3,25,23,2,22,cuartos,6
+9,Guadalajara5,17,5,7,5,17,17,0,22,liguilla,3
+10,Leon5,17,6,4,7,24,29,-5,22,liguilla,3
+11,Juarez5,17,4,7,6,17,18,-1,19,liguilla,3
+12,Necaxa5,17,5,4,8,19,26,-7,19,liguilla,3
+13,Atletico de San Luis5,17,4,6,7,15,23,-8,18,eliminado,1
+14,Mazatlan5,17,3,8,6,17,24,-7,17,eliminado,1
+15,Tijuana5,17,4,5,8,18,30,-12,17,eliminado,1
+16,Pumas5,17,2,8,7,21,30,-9,14,eliminado,1
+17,Atlas5,17,3,4,10,16,27,-11,13,eliminado,1
+18,Queretaro5,17,1,6,10,18,35,-17,9,eliminado,1
